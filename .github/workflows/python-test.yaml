@@ -2,7 +2,7 @@ name: ci workflow for python app test
 on:
   push:
     branches:
-      - "master"
+      - "main"
 # creating jobs 
 jobs:
   ashu-python-app-test:
